@@ -81,3 +81,10 @@ You can test the API using tools like Swagger UI (default provided) or Postman. 
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
+
+
+## Postman Test Screenshot
+![Screenshot (54)](https://github.com/user-attachments/assets/b0c481bf-8cdb-4b8f-9f5b-64eeefce054e)
+![Screenshot (53)](https://github.com/user-attachments/assets/cf03e5c8-d1f1-4a34-a515-03335a38f1da)
+![Screenshot (52)](https://github.com/user-attachments/assets/5433b339-a578-4219-9eef-37418bcb7ca0)
+![Screenshot (55)](https://github.com/user-attachments/assets/1f6cb45e-c417-4c6b-beee-ffcf684428a7)
